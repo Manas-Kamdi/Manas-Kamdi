@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨‍💻 Manas Kamdi  
 
-<!--
-**Manas-Kamdi/Manas-Kamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m **Manas Kamdi**, a passionate **Frontend Developer** who loves crafting clean and modern user interfaces.  
+I have hands-on experience in **HTML, CSS, JavaScript**, and frontend frameworks.  
+I also explore UI libraries like **Material UI** to build sleek and responsive designs.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills  
+- **Frontend Development**: HTML, CSS, JavaScript  
+- **Frameworks & Libraries**: React.js, Material UI, Bootstrap  
+- **Version Control**: Git & GitHub  
+- **Other**: Basic coding knowledge & problem-solving  
+
+---
+
+## 🌟 What I Do  
+- Build interactive, responsive, and user-friendly websites  
+- Use modern frontend frameworks and UI kits to speed up development  
+- Focus on clean, maintainable, and scalable code  
+
+---
+
+## 📫 Connect with Me     
+- **Email**: kamdimanas@gmail.com  
+
+---
+
+⭐ *Always exploring new frameworks and improving my coding skills!*  
