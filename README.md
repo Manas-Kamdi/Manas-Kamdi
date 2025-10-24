@@ -22,7 +22,8 @@ I also explore UI libraries like **Material UI** to build sleek and responsive d
 ---
 
 ## 📫 Connect with Me     
-- **Email**: kamdimanas@gmail.com  
+- **Email**: kamdimanas@gmail.com
+- **Github**: www.linkedin.com/in/manas-kamdi13
 
 ---
 
