@@ -1,8 +1,11 @@
 # 👨‍💻 Manas Kamdi  
 
-Hi! I’m **Manas Kamdi**, a passionate **Frontend Developer** who loves crafting clean and modern user interfaces.  
-I have hands-on experience in **HTML, CSS, JavaScript**, and frontend frameworks.  
-I also explore UI libraries like **Material UI** to build sleek and responsive designs.  
+Hi! I’m **Manas Kamdi**
+I’m passionate about software development and data science, and I love discovering new tools, techniques, and trends in the tech world. Every day, I try to learn something new—whether it’s a concept, a skill, or a way to solve a problem more efficiently. 🚀📚
+
+Right now, I’m focusing on strengthening my skills in programming, databases, and data analysis while building a strong foundation for creating real-world applications. I enjoy hands-on learning and believe that consistent practice is the best way to improve. 🔧✨
+
+My long-term goal is to contribute to projects that make a meaningful impact, whether in software engineering or data-driven solutions. I’m always open to internships, collaborations, and opportunities that help me gain real industry experience and grow as a developer. 🤝🌱
 
 ---
 
