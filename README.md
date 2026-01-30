@@ -26,7 +26,7 @@ My long-term goal is to contribute to projects that make a meaningful impact, wh
 
 ## 📫 Connect with Me     
 - **Email**: kamdimanas@gmail.com
-- **Github**: www.linkedin.com/in/manas-kamdi13
+- **Linkedin**: www.linkedin.com/in/manas-kamdi13
 
 ---
 
