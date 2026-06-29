@@ -17,5 +17,3 @@ Hi, I'm Manas Kamdi, a Computer Technology student with a passion for software d
 
 ---
 [![](https://komarev.com/ghpvc/?username=Manas-Kamdi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
