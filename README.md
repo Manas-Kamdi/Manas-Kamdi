@@ -1,33 +1,18 @@
-# 👨‍💻 Manas Kamdi  
+# 💫 About Me:
+Hi, I'm Manas Kamdi, a Computer Technology student with a passion for software development, data analytics, and continuous learning. I enjoy building scalable web applications, analyzing data to uncover meaningful insights, and solving real-world problems through technology. My technical skills include Python, JavaScript, HTML, CSS, PHP, Django, MySQL, and MongoDB, and I am currently expanding my expertise in SQL, Pandas, NumPy, Power BI, and Machine Learning. I have completed a Java Application Development internship and have worked on projects such as a Resume Builder with ATS Optimizer and a Grocery Shop Web Application. I believe in writing clean code, learning by building projects, and constantly improving my skills. My goal is to grow as a Data Analyst and AI Engineer while contributing to impactful and innovative software solutions.
 
-Hi! I’m **Manas Kamdi**
-I’m passionate about software development and data science, and I love discovering new tools, techniques, and trends in the tech world. Every day, I try to learn something new—whether it’s a concept, a skill, or a way to solve a problem more efficiently. 🚀📚
 
-Right now, I’m focusing on strengthening my skills in programming, databases, and data analysis while building a strong foundation for creating real-world applications. I enjoy hands-on learning and believe that consistent practice is the best way to improve. 🔧✨
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas kamdi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manas Kamdi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamdimanas@gmail.com) 
 
-My long-term goal is to contribute to projects that make a meaningful impact, whether in software engineering or data-driven solutions. I’m always open to internships, collaborations, and opportunities that help me gain real industry experience and grow as a developer. 🤝🌱
-
----
-
-## 🚀 Skills  
-- **Frontend Development**: HTML, CSS, JavaScript  
-- **Frameworks & Libraries**: React.js, Material UI, Bootstrap  
-- **Version Control**: Git & GitHub  
-- **Other**: Basic coding knowledge & problem-solving  
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Manas-Kamdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Manas-Kamdi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manas-Kamdi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Manas-Kamdi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 What I Do  
-- Build interactive, responsive, and user-friendly websites  
-- Use modern frontend frameworks and UI kits to speed up development  
-- Focus on clean, maintainable, and scalable code  
-
----
-
-## 📫 Connect with Me     
-- **Email**: kamdimanas@gmail.com
-- **Linkedin**: www.linkedin.com/in/manas-kamdi13
-
----
-
-⭐ *Always exploring new frameworks and improving my coding skills!*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
